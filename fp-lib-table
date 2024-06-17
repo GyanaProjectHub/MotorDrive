@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "ceramic_cap")(type "KiCad")(uri "${KIPRJMOD}/ceramic_cap.pretty")(options "")(descr ""))
-  (lib (name "1N4148W_diode")(type "KiCad")(uri "C:/Users/sahoo/OneDrive/Documents/NEWCOMPONENTS/1N4148W_diode.pretty")(options "")(descr ""))
-)
