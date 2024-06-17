@@ -1,0 +1,14 @@
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-F_Cu.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-B_Cu.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-F_Paste.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-B_Paste.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-F_Mask.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-B_Mask.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-Edge_Cuts.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-Margin.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-F_Courtyard.gbr'.
+Plotted to 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-B_Courtyard.gbr'.
+Created Gerber job file 'C:\Users\sahoo\OneDrive\Documents\MY_PCB_EXAMPLES\CONTROLLER\controller_full7\controller_full6\controller_full6-job.gbrjob'.
+Info: Done.
